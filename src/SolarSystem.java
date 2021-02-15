@@ -2,6 +2,7 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 
+
 public class SolarSystem {
 
     //Opretter man et tomt hashmap, men mulighed for en arrayList af måner
